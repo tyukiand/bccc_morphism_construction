@@ -1742,3 +1742,6 @@ println(expl_permut)
 println(expl_permut.inverse)
 
 */
+
+// print footer
+scala.io.Source.fromFile("readmeFooter.md").getLines.foreach(println)

@@ -44,6 +44,11 @@ somewhat vague `~`-signs by explicit isomorphisms. Finally, it uses
 the Yoneda lemma to convert those isomorphisms to isomorphisms between
 underlying objects.
 
+The interesting observation is that it is *much easier* to write down
+chains of "types", and then let the "code" be generated automatically. This is
+exactly the opposite of what happens with type inference where we write "code"
+and then infer "types".  
+
 A wall of examples follows.
 
 -----
